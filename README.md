@@ -7,17 +7,21 @@ This Project is a record maintaining application developed using C++. It uses ba
 
 
 This project uses file handling to store all the user entered data into the two database files Database files :
+
+
 carparkdb.txt : This file stores all the information of the car and other data entered by the user.
 carparkexpensedb.txt : This file contains the expenses accumulated for the car in the time being.
+
+
 
 
 Authors
 -@xraymaverick
 
 Installation
-Download this project
+1.Download this project 
 
-run carparking.cpp
+2.run carparking.cpp
 (using VSCode is recommended)
 Contributions are always welcome!
 
